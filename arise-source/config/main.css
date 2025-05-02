@@ -31,14 +31,12 @@ img {
 }
 
 code {
-    max-width: 100%;
-    min-width: 100%;
+	display:block;
         background-color:#293137;
         border-radius:16px;
         padding-left:30px;
         padding-right:30px;
         line-height:2em;
-
         padding-top:1px;
         padding-bottom:1px;
         color:#65f85a;
