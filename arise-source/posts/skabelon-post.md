@@ -12,7 +12,8 @@ Modified Date:: "2025-05-02"
 
 # Overskrift 1
 
-Alt indhold er skrevet i markdown: [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+Alt indhold er skrevet i markdown:
+[https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
 
 ## Underoverskrift 2
 
