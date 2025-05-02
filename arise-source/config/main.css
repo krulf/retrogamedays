@@ -66,14 +66,14 @@ blockquote {
 }
 
 hr {
-        color:#b3ecff;
+        color:#33ccff;
         margin-left: auto;
         margin-right: auto;
         max-width: 100%;
 }
 
 #endline { /* Special kind of <hr> for spacing out footnotes from the rest of a post */
-        color:#b3ecff;               
+        color:#33ccff;               
         margin-left: auto;              
         margin-right: auto;
         max-width: 100%;
