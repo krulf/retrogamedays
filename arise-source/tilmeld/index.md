@@ -16,7 +16,14 @@ content_header:: "false"
 Tilmeld dig til retro game days her....
 
 # Besøgende lørdag
+- Lørdag skal man købe billet
+- Tilmelding her: 
 
 # Entusiaster & frivillige
+- Tilmelding her: 
+- Opstilling lørdag fra kl.7.30.
+- Tilskud til transport: For dem der kommer langvejs fra giver vi et tilskud til transport. Du skal oprette en fakturablanket via virk.dk.
 
 # Butik
+- Tilmelding her: 
+- Opstilling lørdag fra kl.7.30
