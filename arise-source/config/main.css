@@ -98,20 +98,9 @@ h2,h3 {
         padding-bottom:0;
         margin-bottom:0;
         font-size:1em;
-        float:right;
-}
-
-@media screen and (max-width: 900px) {
-.date { 
         text-align:right;
 }
-}
-@media screen and (min-width: 600px) {
-.date { 
-        float:right;
-        margin-left:3em;
-}
-}
+
 
 /********************************/
 /********************************/
