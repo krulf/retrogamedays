@@ -13,5 +13,10 @@ process_markdown:: "true"
 content_header:: "false"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
-# Tilmelding
 Tilmeld dig til retro game days her....
+
+# Besøgende lørdag
+
+# Butik
+
+# Entusiaster & frivillige
