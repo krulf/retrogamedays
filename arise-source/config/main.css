@@ -180,3 +180,14 @@ text-decoration:none;
         font-size: xx-large;
   }
 }
+
+/* Mobile device 800px? */
+@media screen and (max-width: 800px) {
+  body {
+        font-size: large;
+	max-width: 85%;
+  }
+  .topbar {
+        font-size: large;
+  }
+}
