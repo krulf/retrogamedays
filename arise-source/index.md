@@ -12,7 +12,7 @@ content_header:: "false"
 rss_hide:: "true"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
-![Under construction](construction.gif  "Under construction")
+![](construction.gif  "Under construction")
 
 Igen i år forvandles Spinderihallerne i Vejle til et pixeleret paradis med gratis retro-gaming torsdag, fredag og lørdag i efterårsferien.️
 
