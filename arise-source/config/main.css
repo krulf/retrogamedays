@@ -95,6 +95,7 @@ h2,h3,h4 {
 
 ul,ol {
         padding-top:0;
+        line-height:0.8;
 }
 
 /* Style for inline dates. These are configured via a separate include file in /config/content_header.html. See notes on Arise page creation for more details. */
