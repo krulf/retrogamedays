@@ -170,10 +170,10 @@ text-decoration:none;
   border-bottom-style: solid;
 }
 
-/* On screens that are 1300px or less, set the background color to blue */
+/* Mobile device 1300px? */
 @media screen and (max-width: 1300px) {
   body {
-        font-size: xx-large;
+        font-size: xxx-large;
 	max-width: 85%;
   }
   .topbar {
