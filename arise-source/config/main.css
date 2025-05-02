@@ -6,10 +6,10 @@ html * {
         font-family:sans-serif;
 }
 body{
-        margin:40px auto;
+        margin:4em auto;
         max-width:50em;
         line-height:1.6;
-        font-size:18px;
+        font-size:1m;
         color:#65f85a;
         background-color:#121619;
         padding:0 10px;
