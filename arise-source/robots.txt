@@ -1,4 +1,4 @@
 User-agent: * 
-Disallow: https://retrogamedays.dk/config/*
+Disallow: https://retrogamedays.h4k.dk/config/*
 
-Sitemap: https://retrogamedays.dk/sitemap.xml
+Sitemap: https://retrogamedays.h4k.dk/sitemap.xml

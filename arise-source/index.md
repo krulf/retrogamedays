@@ -35,4 +35,3 @@ Igen i år forvandles Spinderihallerne i Vejle til et pixeleret paradis med grat
 🎁 ...og meget mere!
 ```
 
-Arise is free open-source software, available on [GitHub](https://github.com/spectrasecure/arise) under the [GNU AGPL License](https://www.gnu.org/licenses/agpl-3.0.en.html).
