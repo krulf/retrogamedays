@@ -12,6 +12,8 @@ Modified Date:: "2025-05-02"
 
 # Overskrift 1
 
+Alt indhold er skrevet i markdown: [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+
 ## Underoverskrift 2
 
 Tekst som kan være *kursiv* eller **fed**.
@@ -27,8 +29,5 @@ Mailadresser: <jorti@vejlebib.dk>
 #### Underoverskrift 4
 1. Ordnet liste
 2. med flere punkter
-  
 
-
-
-![](billede.jpg "Billedbeskrivelse")
+![](/config/logo.png "Billedbeskrivelse")
