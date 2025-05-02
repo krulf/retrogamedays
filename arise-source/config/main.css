@@ -184,10 +184,10 @@ text-decoration:none;
 /* Mobile device 800px? */
 @media screen and (max-width: 800px) {
   body {
-        font-size: large;
+        font-size: medium;
 	max-width: 85%;
   }
   .topbar {
-        font-size: large;
+        font-size: medium;
   }
 }
