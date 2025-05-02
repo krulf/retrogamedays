@@ -13,6 +13,19 @@ process_markdown:: "true"
 content_header:: "false"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
+![](spinderi.jpg "Spinderihallerne") 
+
 Retro Game Days finder sted i Spinderihallerne i Vejle.
 
-![](spinderi.jpg "Spinderihallerne") 
+> [Spinderihallerne](https://www.spinderihallerne.dk/find-vej/)
+> Spinderigade 11
+> 7100 Vejle
+
+# Parkering
+Der er tidsbegrænset parkering omkring Spinderihallerne. Da vi har mange besøgende kan der være fyldt op og vi henviser til parkering her:
+
+ - Nyboesgade parkering (ved Vejle Kommune)
+ - Parkeringshusene: Albert, Trondur og Cronhammer
+ - Parkering Bryggen
+ 
+ Find overblik på Vejle Kommunes "[Kort over parkeringspladserne](https://www.vejle.dk/borger/mit-liv/trafik-og-parkering/parkering/hvor-kan-jeg-parkere/)".
