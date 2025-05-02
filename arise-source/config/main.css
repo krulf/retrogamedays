@@ -8,7 +8,7 @@ html * {
 body{
         margin:4em auto;
         max-width:50em;
-        line-height:1.6;
+        line-height:1.4;
         font-size:1.1em;
         color:#65f85a;
         background-color:#121619;
@@ -40,7 +40,7 @@ code {
         padding-top:0.5em;
         padding-bottom:0.5em;
         color:#65f85a;
-		font-family:monospace;
+	font-family:monospace;
 }
 
 pre {
