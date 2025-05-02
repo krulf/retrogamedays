@@ -8,7 +8,7 @@ html * {
 body {
         margin:2em auto;
         max-width:45em;
-        min-width:35em;
+        /*min-width:35em;*/
         line-height:1.5;
         font-size:large;
         color:#65f85a;
@@ -100,6 +100,17 @@ h2,h3 {
         font-size:1em;
 }
 
+@media screen and (max-width: 900px) {
+.date { 
+        text-align:right;
+}
+}
+@media screen and (min-width: 600px) {
+.date { 
+        float:right;
+        margin-left:3em;
+}
+}
 
 /********************************/
 /********************************/
@@ -163,7 +174,7 @@ text-decoration:none;
 @media screen and (max-width: 1300px) {
   body {
         font-size: xx-large;
-	max-width: 90%;
+	max-width: 50%;
   }
   .topbar {
         font-size: xx-large;
