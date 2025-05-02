@@ -21,7 +21,7 @@ body{
 /*** Post styling. This section is for defining markup classes to make it easier to write prettier posts. ***/
 
 img {
-    max-width: 100%;
+    max-width: 85%;
     max-height: 100%;
     margin-top:1em;
     margin-bottom:1em;
@@ -118,8 +118,7 @@ h2,h3{
 @media screen and (max-width: 1280px) {
   body {
         font-size:xx-large;
-        max-width:35em;
-        min-width:20em;
+        max-width:85%;
 
   }
 }
