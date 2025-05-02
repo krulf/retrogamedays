@@ -16,9 +16,9 @@ Modified Date:: "2025-05-02"
 
 Tekst som kan være *kursiv* eller **fed**.
 
-Links kan lave sådan: retrogamedays.dk
-Eller sådan: [retrogamedays.dk](retrogamedays.dk)
-Eller sådan: (retrogamedays.dk)
+Links kan laves sådan: [retrogamedays.dk](retrogamedays.dk "Valgfri tooltip")
+
+Eller den nemme måde: <retrogamedays.dk> og videre <jorti@vejlebib.dk>
 
 Liste
 * Punkt 1
