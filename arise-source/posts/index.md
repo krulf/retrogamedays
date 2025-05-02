@@ -1,9 +1,9 @@
 <!-- BEGIN ARISE ------------------------------
-Title:: "Index: Posts"
+Title:: "Nyt"
 
 Author:: ""
-Description:: "A collection of sample posts build with Arise"
-Language:: "en"
+Description:: "Nyt fra underverdenen"
+Language:: "dk"
 Thumbnail:: ""
 Published Date:: ""
 Modified Date:: ""
