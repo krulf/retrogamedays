@@ -131,6 +131,7 @@ h2,h3{
         margin-bottom:2em;
         text-align:center;
         font-size:x-large;
+	font-variant-caps:normal;
 }
 .topbar a {
 color:#65f85a;
