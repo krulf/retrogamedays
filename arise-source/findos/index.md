@@ -15,7 +15,7 @@ content_header:: "false"
 
 Retro Game Days finder sted i Spinderihallerne i Vejle.
 
-[Spinderihallerne](https://www.spinderihallerne.dk/find-vej/)<br>
+>[Spinderihallerne](https://www.spinderihallerne.dk/find-vej/)<br>
 Spinderigade 11<br>
 7100 Vejle<br>
 
