@@ -127,8 +127,8 @@ h2,h3 {
 /* Navbar styling. */
 .topbar {
         padding-right:1em;
-        border-top:1px solid #b3ecff;
-        border-bottom:1px solid #b3ecff;
+        border-top:1px solid #33ccff;
+        border-bottom:1px solid #33ccff;
         margin-bottom:2em;
         text-align:center;
         font-size:large;
@@ -137,8 +137,8 @@ h2,h3 {
 
 }
 .topbar a {
-color:#ff33ff;
-text-decoration:none;
+	color:#ff33ff;
+	text-decoration:none;
 }
 
 /* Site footer styling */
