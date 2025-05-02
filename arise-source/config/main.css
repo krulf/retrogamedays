@@ -174,7 +174,7 @@ text-decoration:none;
 @media screen and (max-width: 1300px) {
   body {
         font-size: xx-large;
-	max-width: 85%;
+	max-width: 100%;
   }
   .topbar {
         font-size: xx-large;
