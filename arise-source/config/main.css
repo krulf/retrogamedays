@@ -90,7 +90,7 @@ h1 {
 
 h2,h3 {
         padding-top:2em;
-        line-height:1.2
+        line-height:1
 }
 
 /* Style for inline dates. These are configured via a separate include file in /config/content_header.html. See notes on Arise page creation for more details. */
