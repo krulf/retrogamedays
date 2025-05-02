@@ -118,7 +118,7 @@ h2,h3{
 @media screen and (max-width: 1280px) {
   body {
         font-size:xx-large;
-        max-width:85%;
+        max-width:30em;
 
   }
 }
