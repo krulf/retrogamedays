@@ -31,14 +31,16 @@ Mailadresser: <jorti@vejlebib.dk>
     Kodeblok
     C:\> cd games
     C:\GAMES> cd transtyc
-    C:\GAMES\TRANSTYC> transtyc
+    C:\GAMES\TRANSTYC> transtyc.exe
     Loading...
 
 Uordnet liste:
+
  - Liste
  - Med mange punkter
 
 Ordnet liste
+
 1. Ordnet liste
 2. med flere punkter
 
