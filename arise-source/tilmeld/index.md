@@ -17,6 +17,6 @@ Tilmeld dig til retro game days her....
 
 # Besøgende lørdag
 
-# Butik
-
 # Entusiaster & frivillige
+
+# Butik
