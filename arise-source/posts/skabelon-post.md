@@ -22,7 +22,7 @@ Basic syntax: [https://www.markdownguide.org/basic-syntax/](https://www.markdown
 
 Tekst som kan være *kursiv* eller **fed**.
 
-Links kan laves sådan: [retrogamedays.dk](retrogamedays.dk "Valgfri tooltip")
+Links kan laves sådan: [retrogamedays.dk](https://retrogamedays.dk "Valgfri tooltip")
 
 Mailadresser: <jorti@vejlebib.dk>
 
@@ -31,7 +31,7 @@ Mailadresser: <jorti@vejlebib.dk>
     Kodeblok
     C:\> cd games
     C:\GAMES> cd transtyc
-    C:\GAMES\TRANSTYC> transtyc
+    C:\GAMES\TRANSTYC> transtyc.exe
     Loading...
 
 Uordnet liste:
