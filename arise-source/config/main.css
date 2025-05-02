@@ -54,7 +54,7 @@ pre {
 }
 
 blockquote {
-        border-left:0.1em solid #00ace6;
+        border-left:1px solid #00ace6;
         display:block;
         margin-top: 1em;
         margin-bottom: 2em;
@@ -127,8 +127,8 @@ h2,h3 {
 /* Navbar styling. */
 .topbar {
         padding-right:1em;
-        border-top:0.1em solid #b3ecff;
-        border-bottom:0.1em solid #b3ecff;
+        border-top:1px solid #b3ecff;
+        border-bottom:1px solid #b3ecff;
         margin-bottom:2em;
         text-align:center;
         font-size:large;
@@ -143,7 +143,7 @@ text-decoration:none;
 
 /* Site footer styling */
 .footer {
-        border-top:0.1em solid #b3ecff;
+        border-top:1px solid #b3ecff;
         font-size:small;
         margin-top:6em;
         text-align:center;
