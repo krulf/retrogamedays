@@ -8,7 +8,7 @@ html * {
 body{
         margin:2em auto;
         max-width:45em;
-        min-width:35em;
+        min-width:15em;
         line-height:1.5;
         font-size:large;
         color:#65f85a;
