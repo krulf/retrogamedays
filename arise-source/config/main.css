@@ -105,7 +105,7 @@ h2,h3{
         text-align:right;
 }
 }
-@media screen and (min-width: 901px) {
+@media screen and (min-width: 600px) {
 .date { 
         float:right;
         margin-left:3em;
