@@ -3,7 +3,7 @@ Title:: "Nyt"
 
 Author:: ""
 Description:: "Nyt fra underverdenen"
-Language:: "dk"
+Language:: "da"
 Thumbnail:: ""
 Published Date:: ""
 Modified Date:: ""

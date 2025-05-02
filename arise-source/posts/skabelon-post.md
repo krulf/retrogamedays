@@ -3,7 +3,7 @@ Title:: "Titel"
 
 Author:: "Retro Game Days"
 Description:: "Beskrivelse"
-Language:: "dk"
+Language:: "da"
 Thumbnail:: ""
 Published Date:: "2025-05-02"
 Modified Date:: "2025-05-02"

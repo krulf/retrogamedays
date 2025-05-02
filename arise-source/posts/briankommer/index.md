@@ -3,7 +3,7 @@ Title:: "Brian kommer"
 
 Author:: "Retro Game Days"
 Description:: "Most awesome"
-Language:: "dk"
+Language:: "da"
 Thumbnail:: ""
 Published Date:: "2025-05-02"
 Modified Date:: "2025-05-02"
