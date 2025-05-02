@@ -34,11 +34,11 @@ code {
 	display:block;
         background-color:#293137;
         border-radius:1.2em;
-        padding-left:2em;
-        padding-right:2em;
+        padding-left:4em;
+        padding-right:4em;
         line-height:2em;
-        padding-top:0.1em;
-        padding-bottom:0.1em;
+        padding-top:0.5em;
+        padding-bottom:0.5em;
         color:#65f85a;
 		font-family:monospace;
 }
