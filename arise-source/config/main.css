@@ -182,7 +182,7 @@ text-decoration:none;
 }
 
 /* Mobile device 800px? */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 300px) {
   body {
         font-size: medium;
 	max-width: 85%;
