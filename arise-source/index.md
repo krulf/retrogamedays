@@ -14,9 +14,9 @@ rss_hide:: "true"
 
 # Retro Game Days
 
-Igen i år forvandles Spinderihallerne i Vejle til et pixeleret paradis med gratis retro-gaming torsdag, fredag og lørdag i efterårsferien.️ 
- 
-👾 ARKADEMASKINER: Kan du slå high scoren i de klassiske arkadespil? 
+Igen i år forvandles Spinderihallerne i Vejle til et pixeleret paradis med gratis retro-gaming torsdag, fredag og lørdag i efterårsferien.️
+
+```👾 ARKADEMASKINER: Kan du slå high scoren i de klassiske arkadespil? 
 🕹️ KONSOLLER: Genoplev glæden fra dit teenageværelse 
 🏆 FLIPPERMASKINER: Få kuglen til at danse mellem bumpers og ramps 
 💾 GAMLE PC'ER: Er du til DOS eller Windows 3.1?
@@ -31,7 +31,7 @@ Igen i år forvandles Spinderihallerne i Vejle til et pixeleret paradis med grat
 😋 CAFÈ: Forfriskninger og lækkerier
 📜 SPILHISTORIE: En rejse gennem videospillenes udvikling
 🎱 ABSOLUTE 90'S: Din ungdom er kommet på museum
-🎁 ...og meget mere! 
+🎁 ...og meget mere! ```
 
 ## Get started with Arise
 
