@@ -11,7 +11,7 @@ body {
         /*min-width:35em;*/
         line-height:1.5;
         font-size:large;
-        color:#65f85a;
+        color:#33ccff;
         background-color:#121619;
         padding:0 2em;
 }
@@ -40,7 +40,7 @@ code {
         line-height:2em;
         padding-top:0.5em;
         padding-bottom:0.5em;
-        color:#65f85a;
+        color:#33ccff;
 	font-family:monospace;
 }
 
@@ -54,7 +54,7 @@ pre {
 }
 
 blockquote {
-        border-left:0.1em solid #65f85a;
+        border-left:1px solid #00ace6;
         display:block;
         margin-top: 1em;
         margin-bottom: 2em;
@@ -62,18 +62,18 @@ blockquote {
         padding-left: 1em;
         margin-right: 4em;
         font-style: italic;
-        color:#46ab3e;
+        color:#00ace6;
 }
 
 hr {
-        color:#65f85a;
+        color:#33ccff;
         margin-left: auto;
         margin-right: auto;
         max-width: 100%;
 }
 
 #endline { /* Special kind of <hr> for spacing out footnotes from the rest of a post */
-        color:#65f85a;               
+        color:#33ccff;               
         margin-left: auto;              
         margin-right: auto;
         max-width: 100%;
@@ -81,16 +81,21 @@ hr {
 }
 
 a {
-        color:#b8f1b4
+        color:#b3ecff
 }
 
 h1 {
         line-height:1.2
 }
 
-h2,h3 {
+h2,h3,h4 {
         padding-top:2em;
-        line-height:1.2
+        padding-bottom:-1;
+        line-height:1;
+}
+
+ul,ol {
+        line-height:1.4;
 }
 
 /* Style for inline dates. These are configured via a separate include file in /config/content_header.html. See notes on Arise page creation for more details. */
@@ -127,8 +132,8 @@ h2,h3 {
 /* Navbar styling. */
 .topbar {
         padding-right:1em;
-        border-top:0.1em solid #65f85a;
-        border-bottom:0.1em solid #65f85a;
+        border-top:1px solid #33ccff;
+        border-bottom:1px solid #33ccff;
         margin-bottom:2em;
         text-align:center;
         font-size:large;
@@ -137,13 +142,13 @@ h2,h3 {
 
 }
 .topbar a {
-color:#65f85a;
-text-decoration:none;
+	color:#ff33ff;
+	text-decoration:none;
 }
 
 /* Site footer styling */
 .footer {
-        border-top:0.1em solid #65f85a;
+        border-top:1px solid #33ccff;
         font-size:small;
         margin-top:6em;
         text-align:center;
@@ -158,7 +163,7 @@ text-decoration:none;
 /* Arise Index Style */
 .arise-toc-td {
   border-width: 1px;
-  border-color: #65f85a;
+  border-color: #33ccff;
   border-top-style: solid;
   text-align: center;
   padding-right: 10px;
