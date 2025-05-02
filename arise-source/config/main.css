@@ -8,7 +8,7 @@ html * {
 body{
         margin:2em auto;
         max-width:45em;
-        min-width:10em;
+        min-width:35em;
         line-height:1.5;
         font-size:large;
         color:#65f85a;
@@ -26,8 +26,8 @@ img {
     margin-top:1em;
     margin-bottom:1em;
     border-radius:1.2em;
-    margin-left: 2em;
-    margin-right: 2em;
+    margin-left: auto;
+    margin-right: auto;
     display: block;
 }
 
@@ -54,7 +54,7 @@ pre {
 }
 
 blockquote {
-        border-left:1px solid #65f85a;
+        border-left:0.1em solid #65f85a;
         display:block;
         margin-top: 1em;
         margin-bottom: 2em;
@@ -114,17 +114,13 @@ h2,h3{
 
 
 
-/* On screens that are 992px or less, set the background color to blue */
-@media screen and (max-width: 992px) {
+/* On screens that are 1024px or less, set the background color to blue */
+@media screen and (max-width: 1280px) {
   body {
         font-size:xx-large;
-  }
-}
+        max-width:35em;
+        min-width:20em;
 
-/* On screens that are 600px or less, set the background color to olive */
-@media screen and (max-width: 600px) {
-  body {
-        font-size:xx-large;
   }
 }
 
