@@ -12,7 +12,7 @@ content_header:: "false"
 rss_hide:: "true"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
-![](construction.gif  "Under construction")
+![](chuckle.gif  "Teh Hambo")
 
 Igen i år forvandles Spinderihallerne i Vejle til et pixeleret paradis med gaming torsdag, fredag og lørdag i efterårsferien.️
 
