@@ -38,6 +38,10 @@ img {
     display: block;
 }
 
+.cons {
+	display:inline-block;
+}
+
 code {
 	display:block;
         background-color:#293137;
