@@ -22,7 +22,7 @@ body {
 
 svg {
 	display:inline-block;
-        margin: 1em;
+        margin: 1em 1.5em;
 	vertical-align:middle;
 }
 
@@ -60,7 +60,8 @@ pre {
         word-wrap: break-word;
 }
 
-blockquote {
+blockquote {git remote set-url origin git@github.com:krulf/retrogamedays.git
+git config --global user.email 47870144+krulf@users.noreply.github.com
         border-left:1px solid #00ace6;
         display:block;
         margin-top: 1em;
