@@ -32,3 +32,5 @@ Igen i år forvandles Spinderihallerne i Vejle til et pixeleret paradis med gami
 * CAFÈ: Forfriskninger og lækkerier
 * SPILHISTORIE: En rejse gennem videospillenes udvikling
 * ...og meget mere!
+
+![](construction.gif  "Animation af konstruktionsarbejder som alle hjemmesider havde i halvfemserne")
