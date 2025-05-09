@@ -132,8 +132,9 @@ ul,ol {
 /*** Modular component styles. Includes styling for the headers, navigation controls, and footer. ***/
 
 /* Site logo. Styled to responsively move to either left or be centred, depending if the page is being viewed on desktop or mobile respectively. */
-.logo {           
+.logo {
         margin-bottom:0em;
+        margin-top:0em;
         text-align:center;
     	border-radius:0;
 }
