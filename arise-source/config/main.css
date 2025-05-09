@@ -6,7 +6,7 @@ html * {
         font-family:sans-serif;
 }
 body {
-        margin:0em auto;
+        margin:2em auto;
         max-width:45em;
         /*min-width:35em;*/
         line-height:1.5;
@@ -26,6 +26,11 @@ svg {
 	vertical-align:middle;
 }
 
+svg.logo {
+	display:inline-block;
+        margin: 0em;
+	vertical-align:middle;
+}
 
 img {
     max-width: 100%;
