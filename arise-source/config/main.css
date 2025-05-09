@@ -6,7 +6,7 @@ html * {
         font-family:sans-serif;
 }
 body {
-        margin:2em auto;
+        margin:0em auto;
         max-width:45em;
         /*min-width:35em;*/
         line-height:1.5;
@@ -133,7 +133,6 @@ ul,ol {
 
 /* Site logo. Styled to responsively move to either left or be centred, depending if the page is being viewed on desktop or mobile respectively. */
 .logo {
-        margin:0em;
         text-align:center;
     	border-radius:0;
 }
