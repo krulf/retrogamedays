@@ -133,7 +133,7 @@ ul,ol {
 
 /* Site logo. Styled to responsively move to either left or be centred, depending if the page is being viewed on desktop or mobile respectively. */
 .logo {           
-        margin-bottom:2em;
+        margin-bottom:0em;
         text-align:center;
     	border-radius:0;
 }
