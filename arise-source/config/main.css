@@ -32,6 +32,14 @@ svg.logo {
 	vertical-align:middle;
 }
 
+svg.icon {
+	width:1em;
+	height:1em;
+	display:inline-block;
+        margin: 0em;
+	vertical-align:middle;
+}
+
 img {
     max-width: 100%;
     max-height: 100%;
