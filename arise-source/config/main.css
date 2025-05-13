@@ -33,10 +33,10 @@ svg.logo {
 }
 
 img.icon {
-	width:1em;
-	height:1em;
+	width:32px;
+	height:32px;
 	display:inline-block;
-        margin: 0em;
+        margin: 0.2em;
 	vertical-align:middle;
 }
 
