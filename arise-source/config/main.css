@@ -170,11 +170,11 @@ ul,ol {
         font-size:large;
 	font-variant-caps:all-small-caps;
         line-height:2;
-
 }
 .topbar a {
 	color:#ff33ff;
 	text-decoration:none;
+	white-space: nowrap;
 }
 
 /* Site footer styling */
