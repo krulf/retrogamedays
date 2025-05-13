@@ -38,6 +38,7 @@ img.icon {
 	display:inline-block;
         margin: 0.2em;
 	vertical-align:middle;
+	border-radius: 0;
 }
 
 svg.icon {
