@@ -4,7 +4,7 @@ Title:: "Tilmelding"
 Author:: "Retro Game Days"
 Description:: "Find os"
 Language:: "da"
-Thumbnail:: "kort-16x16.svg"
+Thumbnail:: "kort-16x16.png"
 Published Date:: "2025-05-02"
 Modified Date:: "2025-05-02"
 
