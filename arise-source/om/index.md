@@ -15,6 +15,6 @@ content_header:: "false"
 
 Retro Game Days er et kommunalt samarbejde mellem [Kulturmuseet](https://www.vejlemuseerne.dk/besoeg-os/kulturmuseet/), [Spinderihallerne](https://spinderihallerne.dk) og [Vejle Bibliotekerne](https://vejlebib.dk).
 
->>> Retro Game Days skal gennem leg, formidling og oplevelser bidrage til folkeoplysing om dansk og international spilkultur og spilhistorie. Særligt skal arrangementet bidrage til at styrke fællesskaber om spil.
+> Retro Game Days skal gennem leg, formidling og oplevelser bidrage til folkeoplysing om dansk og international spilkultur og spilhistorie. Særligt skal arrangementet bidrage til at styrke fællesskaber om spil.
 
 Har du forslag eller spørgsmål, kontakt gerne Jørgen Tietze fra Vejle Bibliotekerne på <jorti@vejlebib.dk>.
