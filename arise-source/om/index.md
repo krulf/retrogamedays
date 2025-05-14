@@ -13,3 +13,6 @@ process_markdown:: "true"
 content_header:: "false"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
+Retro Game Days er et kommunalt samarbejde mellem [Kulturmuseet](https://www.vejlemuseerne.dk/besoeg-os/kulturmuseet/), [Spinderihallerne](https://spinderihallerne.dk) og [Vejle Bibliotekerne](https://vejlebib.dk).
+
+Har du forslag eller spørgsmål, kontakt gerne Jørgen Tietze fra Vejle Bibliotekerne på <jorti@vejlebib.dk>.
