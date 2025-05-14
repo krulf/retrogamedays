@@ -4,7 +4,7 @@ Title:: "Tilmelding"
 Author:: "Retro Game Days"
 Description:: "Tilmelding"
 Language:: "da"
-Thumbnail:: "thumbnail.png"
+Thumbnail:: "figur-150x150.png"
 Published Date:: "2025-05-02"
 Modified Date:: "2025-05-02"
 

@@ -4,7 +4,7 @@ Title:: "Om"
 Author:: "Retro Game Days"
 Description:: "Om"
 Language:: "da"
-Thumbnail:: "/skilt-16x16.png"
+Thumbnail:: "joystick-150x150.png"
 Published Date:: "2025-05-02"
 Modified Date:: "2025-05-02"
 

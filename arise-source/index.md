@@ -4,7 +4,7 @@ Title:: "Retro Game Days"
 Author:: "Retro Game Days"
 Description:: "Retro Game Days er en fejring af spilhistorie og spilkultur i uge 42"
 Language:: "da"
-Thumbnail:: "rgd-icon.png"
+Thumbnail:: "joystick-150x150.png"
 Published Date:: "2025-05-02"
 Modified Date:: "2025-05-02"
 
