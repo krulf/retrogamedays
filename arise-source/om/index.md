@@ -15,7 +15,7 @@ content_header:: "false"
 
 Retro Game Days er et kommunalt samarbejde mellem [Kulturmuseet](https://www.vejlemuseerne.dk/besoeg-os/kulturmuseet/), [Spinderihallerne](https://spinderihallerne.dk) og [Vejle Bibliotekerne](https://vejlebib.dk).
 
-**Eksempelvideo**
+**Eksempel på integration af video**
 ![](tak.mp4)
 
 # Formål
