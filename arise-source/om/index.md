@@ -18,5 +18,7 @@ Retro Game Days er et kommunalt samarbejde mellem [Kulturmuseet](https://www.vej
 # Formål
 > Retro Game Days skal gennem leg, formidling og oplevelser bidrage til folkeoplysing om dansk og international spilkultur og spilhistorie. Særligt skal arrangementet bidrage til at styrke fællesskaber om spil.
 
+![](tak.mp4)
+
 # Kontakt
 Har du forslag eller spørgsmål, kontakt gerne Jørgen Tietze fra Vejle Bibliotekerne på <jorti@vejlebib.dk>.
