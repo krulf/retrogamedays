@@ -20,6 +20,10 @@ body {
 
 /*** Post styling. This section is for defining markup classes to make it easier to write prettier posts. ***/
 
+video {
+        max-width:45em;
+}
+
 svg {
 	display:inline-block;
         margin: 3em 2em 2em 2em;
