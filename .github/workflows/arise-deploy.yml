@@ -56,7 +56,9 @@ jobs:
           port: 22
           uploads: |
             ./arise-out => ./testing
-          #delete: 'true'
+          ignore: |
+            *.mp4
+          delete: 'true'
 
 #      - name: Push to live branch
 #        uses: s0/git-publish-subdir-action@develop
