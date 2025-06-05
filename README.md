@@ -1,4 +1,4 @@
-# Retro Game Days webpage
+![Retro Game Days Logo](rgd.png "Retro Game Days Logo")
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
