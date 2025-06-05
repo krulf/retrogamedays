@@ -49,9 +49,9 @@ jobs:
       - name: Push
         uses: Dylan700/sftp-upload-action@latest
         with:
-          server: ${{secrets.host}}
-          key: ${{secrets.key}}
-          passphrase: ${{secrets.passphrase}}
+          server: ${{secrets.HOST}}
+          key: ${{secrets.KEY}}
+          passphrase: ${{secrets.PASSPHRASE}}
           port: 22
           uploads: |
             ./arise-out => ./testing
