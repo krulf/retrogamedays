@@ -3,6 +3,7 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Made with Arise // Bash Static Site Generator that carries its own license terms.
+
 *Cyberpunk websites for the modern web.*
 
 This work is licensed under a
