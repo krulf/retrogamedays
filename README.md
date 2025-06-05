@@ -2,7 +2,7 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Made with Arise // Bash Static Site Generator that carries its own license terms.
+Forked from [Arise](https://github.com/spectrasecure/arise) // Bash Static Site Generator that carries its own license terms.
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
