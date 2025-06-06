@@ -56,8 +56,8 @@ jobs:
           port: 22
           uploads: |
             ./arise-out => ./testing
-          ignore: |
-            *.mp4
+#          ignore: |
+#            *.mp4
           delete: 'true'
 
 #      - name: Push to live branch
