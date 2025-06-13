@@ -18,7 +18,9 @@ Igen i år forvandles Spinderihallerne i Vejle til et pixeleret paradis med gami
 
 ### Program lørdag
 👾 TALKS: Spilhistorien bringes til live!
+
 🕹️ NØRDZONEN: Samlere, foreninger og andre entusiaster 
+
 🏆 WORKSHOPS: Frem med papir, saks og loddekolbe
 
 ### Alle dage
