@@ -17,7 +17,7 @@ rss_hide:: "true"
 Igen i år forvandles Spinderihallerne i Vejle til et pixeleret paradis med gaming torsdag, fredag og lørdag i efterårsferien.️
 
 ### Program lørdag
-* TALKS: Spilhistorien bringes til live!
+👾 TALKS: Spilhistorien bringes til live!
 * NØRDZONEN: Samlere, foreninger og andre entusiaster 
 * WORKSHOPS: Frem med papir, saks og loddekolbe
 
