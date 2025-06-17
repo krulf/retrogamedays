@@ -19,6 +19,8 @@ Er du klar til årets ultimative retro-fix? Spinderihallerne bliver igen fyldt m
 
 Vi glæder os til at byde jer velkommen til tre dage spækket med nostalgi, nørderi og uforglemmelige spiloplevelser for hele familien!
 
+![](retrogamedays.jpg "Aktivitet til Retro Game Days")
+
 ### Program
 **LØRDAG** får du de ægte autentiske retro gaming oplevelser, når samlere, foreninger og RGD’s frivillige booter den originale hardware op, og på scenen kan du høre en række spændende talks. 
 
