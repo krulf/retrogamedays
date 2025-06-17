@@ -31,8 +31,6 @@ Billet til lørdag koster 40 kr. for voksne og 20 kr. for børn. Vi er i fuld ga
 ### For udstillere og sælgere
 Har du en samling, butik, hobby eller nørdet passion, du vil dele med verden? Så er Nørdzonen stedet for dig. 
 
-👉 Kontakt Jørgen på jorti@vejlebib.dk og få mere at vide.
+👉 Kontakt Jørgen på <jorti@vejlebib.dk> og få mere at vide.
 
 ![](construction.gif  "Animation af konstruktionsarbejder som alle hjemmesider havde i halvfemserne")
-
-Retro Game Days er arrangeret af Vejle Bibliotekerne, Spinderihallerne, FabLab og Vejlemuseerne.
