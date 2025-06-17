@@ -13,9 +13,9 @@ process_markdown:: "true"
 content_header:: "false"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
-> Retro Game Days skal gennem leg, formidling og oplevelser bidrage til folkeoplysing om dansk og international spilkultur og spilhistorie. Særligt skal arrangementet bidrage til at styrke fællesskaber om spil.
+Retro Game Days er arrangeret af [Kulturmuseet](https://www.vejlemuseerne.dk/besoeg-os/kulturmuseet/), [Spinderihallerne](https://spinderihallerne.dk) og [Vejle Bibliotekerne](https://vejlebib.dk).
 
-Retro Game Days er et kommunalt samarbejde mellem [Kulturmuseet](https://www.vejlemuseerne.dk/besoeg-os/kulturmuseet/), [Spinderihallerne](https://spinderihallerne.dk) og [Vejle Bibliotekerne](https://vejlebib.dk).
+> Retro Game Days skal gennem leg, formidling og oplevelser bidrage til folkeoplysing om dansk og international spilkultur og spilhistorie. Særligt skal arrangementet bidrage til at styrke fællesskaber om spil.
 
 ### Talks
 Find talks fra tidligere år på vores youtube kanal her: [youtube.com/@RetroGameDays](https://youtube.com/@RetroGameDays/)
