@@ -16,11 +16,15 @@ rss_hide:: "true"
 
 Er du klar til årets ultimative retro-fix? Spinderihallerne bliver igen fyldt med blip, bloops og nostalgiske pixel-drømme, når RETRO GAME DAYS 2025 åbner dørene for både hardcore gamere, samlere og nysgerrige nostalgikere.
 
+
 Vi glæder os til at byde jer velkommen til tre dage spækket med nostalgi, nørderi og uforglemmelige spiloplevelser for hele familien!
+
 
 LØRDAG får du de ægte autentiske retro gaming oplevelser, når samlere, foreninger og RGD’s frivillige booter den originale hardware op, og på scenen kan du høre en række spændende talks. 
 
+
 Billet til lørdag koster 40 kr. for voksne og 20 kr. for børn. Vi er i fuld gang med at planlægge lørdagsprogrammet, og glæder os til at offentliggøre det sidst på sommeren!
+
 
 TORSDAG og FREDAG er der gratis adgang og masser hyggelig casual gaming på de mange fede arkader, flippere, konsoller og gamle PC’er.
 
