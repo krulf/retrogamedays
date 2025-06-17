@@ -21,7 +21,7 @@ body {
 /*** Post styling. This section is for defining markup classes to make it easier to write prettier posts. ***/
 
 p {
-	margin-top: 0;
+	margin-top: 1em;
 	margin-bottom: 0.2em;
 }
 
