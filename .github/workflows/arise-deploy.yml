@@ -58,7 +58,7 @@ jobs:
             ./arise-out => ./testing
 #          ignore: |
 #            *.mp4
-          delete: 'true'
+          delete: 'false'
 
 #      - name: Push to live branch
 #        uses: s0/git-publish-subdir-action@develop
