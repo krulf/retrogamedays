@@ -5,8 +5,8 @@ Author:: "Retro Game Days"
 Description:: "Om"
 Language:: "da"
 Thumbnail:: "joystick-150x150.png"
-Published Date:: "2025-05-02"
-Modified Date:: "2025-05-02"
+Published Date:: "2025-06-17"
+Modified Date:: "2025-06-17"
 
 toc:: "false"
 process_markdown:: "true"
@@ -21,5 +21,5 @@ Retro Game Days er et kommunalt samarbejde mellem [Kulturmuseet](https://www.vej
 # Kontakt
 Har du forslag eller spørgsmål, kontakt gerne Jørgen Tietze fra Vejle Bibliotekerne på <jorti@vejlebib.dk>.
 
-*Eksempel på integration af video*
-![](tak.mp4)
+<--! *Eksempel på integration af video*
+![](tak.mp4) -->
