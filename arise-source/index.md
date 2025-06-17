@@ -16,6 +16,13 @@ rss_hide:: "true"
 
 Er du klar til årets ultimative retro-fix? Spinderihallerne bliver igen fyldt med blip, bloops og nostalgiske pixel-drømme, når RETRO GAME DAYS 2025 åbner dørene for både hardcore gamere, samlere og nysgerrige nostalgikere.
 
+>📅 Efterårsferien: Torsdag d. 16. – lørdag d. 18. oktober, kl. 10.00-17.00 
+>
+>📍 Spinderihallerne, Vejle
+>
+>🎟️ Lørdag: Voksne 40 kr. / Børn 20 kr. 
+>
+>🎟️ Torsdag og fredag: GRATIS ADGANG
 
 Vi glæder os til at byde jer velkommen til tre dage spækket med nostalgi, nørderi og uforglemmelige spiloplevelser for hele familien!
 
