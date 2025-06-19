@@ -27,3 +27,5 @@ Find talks fra tidligere år på vores youtubekanal her: [youtube.com/@RetroGame
 
 ### Kontakt
 👉 Har du forslag eller spørgsmål, kontakt gerne Jørgen på <jorti@vejlebib.dk>.
+
+![](construction.gif  "Animation af konstruktionsarbejder som alle hjemmesider havde i halvfemserne")

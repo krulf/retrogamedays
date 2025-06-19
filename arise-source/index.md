@@ -12,7 +12,6 @@ content_header:: "false"
 rss_hide:: "true"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
-<!--![](chuckle.gif  "Teh Hambo")-->
 # Program
 
 >📅  Efterårsferien: Torsdag d. 16. – lørdag d. 18. oktober, kl. 10.00-17.00 
@@ -40,5 +39,3 @@ Billet til lørdag koster 40 kr. for voksne og 20 kr. for børn. Vi er i fuld ga
 Har du en samling, butik, hobby eller nørdet passion, du vil dele med verden? Så er Nørdzonen stedet for dig. 
 
 👉 Kontakt Jørgen på <jorti@vejlebib.dk> og få mere at vide.
-
-![](construction.gif  "Animation af konstruktionsarbejder som alle hjemmesider havde i halvfemserne")
