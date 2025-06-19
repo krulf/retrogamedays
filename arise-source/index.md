@@ -37,7 +37,7 @@ Billet til lørdag koster 40 kr. for voksne og 20 kr. for børn. Vi er i fuld ga
 
 ## Bliv en del af Retro Game Days
 
-Vi vil styrke spilkultur og bidrage til fællesskabet blandt entusiaster. Derfor inviterer vi dig til at komme og vise det du synes er fedt.
+Vi vil styrke spilkultur og bidrage til fællesskabet blandt entusiaster indenfor retrospil. Derfor inviterer vi både private og erhvervsdrivende:
 
 >🧠 Har du en samling, hobby eller nørdet passion, du vil dele? 
 >
