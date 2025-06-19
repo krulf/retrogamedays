@@ -23,7 +23,7 @@ Spinderigade 11<br>
 
 ![](spinderi.jpg "Spinderihallerne") 
 
-### Parkering
+## Parkering
 Der er tidsbegrænset parkering omkring Spinderihallerne. Da vi har mange besøgende, kan der være fyldt op, og vi henviser til parkering her:
 
  - Nyboesgade parkering (ved Vejle Kommune)
