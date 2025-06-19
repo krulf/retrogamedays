@@ -23,7 +23,7 @@ Retro Game Days er arrangeret af [Vejlemuseerne](https://www.vejlemuseerne.dk/),
 Find talks fra tidligere år på vores youtubekanal her: [youtube.com/@RetroGameDays](https://youtube.com/@RetroGameDays/)
 
 ## Stemningsvideo 2023
-![](tak.mp4 "Stemningsvideo uden tale der giver en visuel forståelse af hvordan Retro Game Days som arrangement: børn og voksne der spiller på arkademaskiner, flippermaskiner og konsoller. Cosplayers i Star Wars kostumer")
+![](tak.mp4 "Stemningsvideo fra 2023 hvor vi siger tak til alle der bidrog og deltog i årets arrangement. Upbeat musik spiller imens vi bliver præsenteret for: børn og voksne der spiller på arkademaskiner, flippermaskiner og konsoller. Cosplayers i Star Wars kostumer")
 
 ## Kontakt
 👉 Har du forslag eller spørgsmål, kontakt gerne Jørgen på <jorti@vejlebib.dk>.

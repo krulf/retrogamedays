@@ -35,7 +35,9 @@ Billet til lørdag koster 40 kr. for voksne og 20 kr. for børn. Vi er i fuld ga
 
 *TORSDAG og FREDAG* er der gratis adgang og masser hyggelig casual gaming på de mange fede arkader, flippere, konsoller og gamle PC’er.
 
-## For udstillere og sælgere
-Har du en samling, butik, hobby eller nørdet passion, du vil dele med verden? Så er Nørdzonen stedet for dig. 
+## Bliv en del af Retro Game Days
+>🧠 Har du en samling, hobby eller nørdet passion, du vil dele med verden? 
+>🛒 Sælger du gamle spil, hardware e.lign, og vil have en stand? 
+>🛠 Vil du være med til at formidle og klargøre vores store samling af gamle konsoller og computere?
 
 👉 Kontakt Jørgen på <jorti@vejlebib.dk> og få mere at vide.
