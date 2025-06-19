@@ -21,7 +21,7 @@ Retro Game Days er arrangeret af [Vejlemuseerne](https://www.vejlemuseerne.dk/),
 Find talks fra tidligere år på vores youtubekanal her: [youtube.com/@RetroGameDays](https://youtube.com/@RetroGameDays/)
 
 ### Stemningsvideo 2023
-![](tak.mp4)
+![](tak.mp4 "Stemningsvideo uden tale der giver en visuel forståelse af hvordan Retro Game Days som arrangement")
 
 ### Kontakt
 👉 Har du forslag eller spørgsmål, kontakt gerne Jørgen på <jorti@vejlebib.dk>.
