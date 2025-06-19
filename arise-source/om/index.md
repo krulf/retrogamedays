@@ -15,10 +15,10 @@ content_header:: "false"
 
 Retro Game Days er arrangeret af [Vejlemuseerne](https://www.vejlemuseerne.dk/), [Spinderihallerne](https://spinderihallerne.dk), [FabLab](https://www.spinderihallerne.dk/fablab/) og [Vejle Bibliotekerne](https://vejlebib.dk).
 
-> Retro Game Days skal gennem leg, formidling og oplevelser bidrage til folkeoplysing om dansk og international spilkultur og spilhistorie. Særligt skal arrangementet bidrage til at styrke fællesskaber om spil.
+> Retro Game Days skal gennem leg, formidling og oplevelser bidrage til folkeoplysning om dansk og international spilkultur og spilhistorie. Særligt skal arrangementet bidrage til at styrke fællesskaber om spil.
 
 ### Talks
-Find talks fra tidligere år på vores youtube kanal her: [youtube.com/@RetroGameDays](https://youtube.com/@RetroGameDays/)
+Find talks fra tidligere år på vores youtubekanal her: [youtube.com/@RetroGameDays](https://youtube.com/@RetroGameDays/)
 
 ### Stemningsvideo 2023
 ![](tak.mp4)
