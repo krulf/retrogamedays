@@ -2,7 +2,9 @@
 <svg
    version="1.1"
    id="svg1"
-   viewBox="0 0 941.58668 375.09332"
+   viewBox="0 0 941.58668 375.09198"
+   width="941.58667"
+   height="375.09198"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -16,7 +18,7 @@
      id="defs1" />
   <g
      id="g1"
-     transform="translate(-3061.0354,-0.00133938)">
+     transform="translate(0,-0.00133938)">
     <g
        id="group-R5">
       <path
