@@ -21,7 +21,7 @@ body {
 /*** Post styling. This section is for defining markup classes to make it easier to write prettier posts. ***/
 
 .visually-hidden {
-	visibility: hidden;
+	display: none;
 }
 
 p {
