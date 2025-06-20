@@ -43,6 +43,6 @@ Vi vil styrke spilkultur og bidrage til fællesskabet blandt entusiaster indenfo
 >
 >🛒 Vil du have en stand og sælge retrospil, hardware eller andet?
 >
->🛠 Vil du være frivillig og hjælpe med at formidle og klargøre vores samling af maskiner?
+>🛠️ Vil du være frivillig og hjælpe med at formidle og klargøre vores samling af maskiner?
 
 👉 Kontakt Jørgen på <jorti@vejlebib.dk> og få mere at vide.
