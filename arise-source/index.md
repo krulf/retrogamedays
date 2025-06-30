@@ -22,7 +22,7 @@ rss_hide:: "true"
 >
 >🎟️  Torsdag og fredag: GRATIS ADGANG
 >
->🌐  Besøg [Event på facebook](https://www.facebook.com/events/727221046554171)
+>🌐  Besøg [event på facebook](https://www.facebook.com/events/727221046554171)
 
 Er du klar til årets ultimative retro-fix? Spinderihallerne bliver igen fyldt med blip, bloops og nostalgiske pixel-drømme, når RETRO GAME DAYS 2025 åbner dørene for både hardcore gamere, samlere og nysgerrige nostalgikere.
 
