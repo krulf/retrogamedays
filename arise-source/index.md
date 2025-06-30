@@ -12,7 +12,7 @@ content_header:: "false"
 rss_hide:: "true"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
-# Retro Game Days 2025: Program
+# Program: Retro Game Days 2025
 
 >📅  Efterårsferien: Torsdag d. 16. – lørdag d. 18. oktober, kl. 10.00-17.00 
 >
@@ -21,6 +21,8 @@ rss_hide:: "true"
 >🎟️  Lørdag: Voksne 40 kr. / Børn 20 kr. 
 >
 >🎟️  Torsdag og fredag: GRATIS ADGANG
+>
+>🌐  [Event på facebook](https://www.facebook.com/events/727221046554171)
 
 Er du klar til årets ultimative retro-fix? Spinderihallerne bliver igen fyldt med blip, bloops og nostalgiske pixel-drømme, når RETRO GAME DAYS 2025 åbner dørene for både hardcore gamere, samlere og nysgerrige nostalgikere.
 
