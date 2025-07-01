@@ -13,8 +13,7 @@ process_markdown:: "true"
 content_header:: "false"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
-# Tilmelding: lørdagsbillet
-
+# Tilmelding lørdag
 
 ## Voksne & børn
 Billet til lørdag koster 40 kr. for voksne og 20 kr. for børn.
