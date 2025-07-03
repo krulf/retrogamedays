@@ -29,3 +29,7 @@ Butik eller salgsstand med ting der knytter sig til retro spil og kultur koster 
 ## Bliv en del af Retro Game Days
 Har du en passion for gamle computere, spil eller noget tredje som vil passe ind i Retro Game Days kan du tilmelde dig ved at sende en mail til Jørgen på <jorti@vejlebib.dk>
 
+Du kan både have en stand hvor du viser din samling frem eller formidler din passion for dit yndlingsspil. Vores besøgende er begejstrede for at høre din historie og hvad du brænder for. Så hvis du gerne vil i kontakt med mennesker der deler din passion, så er Retro Game Days et godt sted.
+
+Vi er også åbne for nye ideer og projekter, så skriv gerne en mail, hvis du har forslag.
+
