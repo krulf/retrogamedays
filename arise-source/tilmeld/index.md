@@ -33,4 +33,4 @@ Du kan både have en stand hvor du viser din samling frem eller formidler din be
 
 Vi er også åbne for nye ideer og projekter, så skriv gerne en mail, hvis du har forslag.
 
-![To personer spiller FIFA på Playstation 1 med billedrørsfjernsyn](RGD-stemning-03.jpg)
+![To spiller FIFA på Playstation 1 med billedrørsfjernsyn](RGD-stemning-03.jpg)
