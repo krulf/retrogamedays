@@ -28,7 +28,7 @@ Er du klar til årets ultimative retro-fix? Spinderihallerne bliver igen fyldt m
 
 Vi glæder os til at byde jer velkommen til tre dage spækket med nostalgi, nørderi og uforglemmelige spiloplevelser for hele familien!
 
-![Aktivitet i Spinderiet til Retro Game Days 2024](retrogamedays.jpg)
+![Aktivitet i Spinderiet til Retro Game Days 2024](RGD-stemning-01.jpg)
 
 ## Dagene
 *LØRDAG* får du de ægte autentiske retro gaming oplevelser, når samlere, foreninger og RGD’s frivillige booter den originale hardware op, og på scenen kan du høre en række spændende talks. 
@@ -48,3 +48,5 @@ Vi vil styrke spilkultur og bidrage til fællesskabet blandt entusiaster indenfo
 >🛠️ Vil du være frivillig og hjælpe med at formidle og klargøre vores samling af maskiner?
 
 👉 Kontakt Jørgen på <jorti@vejlebib.dk> og få mere at vide.
+
+![Stemningsbilleder fra Retro Game Days: der bliver spillet på Amiga, Spectrum og kigget på figurer til salg](RGD-stemning-02.jpg  "Stemningsbilleder fra Retro Game Days")
