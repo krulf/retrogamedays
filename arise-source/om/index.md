@@ -1,8 +1,8 @@
 <!-- BEGIN ARISE ------------------------------
-Title:: "Om"
+Title:: "Om arrangementet: formål og hvordan du kommer i kontakt med os"
 
-Author:: "Retro Game Days"
-Description:: "Om"
+Author:: "Fablab Spinderihallerne, Vejle Museerne og Vejle Bibliotekerne"
+Description:: "Retro Game Days er et samarbejde mellem organisationer i Vejle Kommune, hvis medarbejdere har en passion for de gamle maskiner, spilkultur og historie"
 Language:: "da"
 Thumbnail:: "joystick-150x150.png"
 Published Date:: "2025-06-17"

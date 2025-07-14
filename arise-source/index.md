@@ -1,7 +1,7 @@
 <!-- BEGIN ARISE ------------------------------
-Title:: "Retro Game Days"
+Title:: "Spilkultur, historie og fællesskaber i uge 42"
 
-Author:: "spilkultur, historie og fællesskaber i uge 42"
+Author:: "Fablab Spinderihallerne, Vejle Museerne og Vejle Bibliotekerne"
 Description:: "Retro Game Days er en fejring af spilkultur, historie og fællesskaber i uge 42: oplev nostalgi og nørderi når du hører lyden af de gamle maskiner"
 Language:: "da"
 Thumbnail:: "joystick-150x150.png"
