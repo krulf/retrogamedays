@@ -6,7 +6,7 @@ Description:: "Retro Game Days er et samarbejde mellem organisationer i Vejle Ko
 Language:: "da"
 Thumbnail:: "joystick-150x150.png"
 Published Date:: "2025-06-17"
-Modified Date:: "2025-06-17"
+Modified Date:: "2025-07-15"
 
 toc:: "false"
 process_markdown:: "true"

@@ -1,12 +1,12 @@
 <!-- BEGIN ARISE ------------------------------
 Title:: "Tilmelding Retro Game Days 2025 16.-18.okt"
 
-Author:: "Retro Game Days"
+Author:: "Fablab Spinderihallerne, Vejle Museerne og Vejle Bibliotekerne"
 Description:: "Tilmelding til Retro Game Days 2025: besøgende, butikker og hvis du vil være med. Torsdag-fredag: gratis. Lørdag 20kr for børn og 40kr for voksne"
 Language:: "da"
 Thumbnail:: "figur-150x150.png"
 Published Date:: "2025-06-17"
-Modified Date:: "2025-06-17"
+Modified Date:: "2025-07-15"
 
 toc:: "false"
 process_markdown:: "true"

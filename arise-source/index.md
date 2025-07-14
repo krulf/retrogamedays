@@ -6,7 +6,7 @@ Description:: "Retro Game Days er en fejring af spilkultur, historie og fælless
 Language:: "da"
 Thumbnail:: "joystick-150x150.png"
 Published Date:: "2025-06-17"
-Modified Date:: "2025-07-14"
+Modified Date:: "2025-07-15"
 
 content_header:: "false"
 rss_hide:: "true"

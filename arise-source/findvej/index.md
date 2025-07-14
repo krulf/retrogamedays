@@ -6,7 +6,7 @@ Description:: "Her finder du Retro Game Days i Spinderihallerne i Vejle, hvordan
 Language:: "da"
 Thumbnail:: "kort-150x150.png"
 Published Date:: "2025-05-02"
-Modified Date:: "2025-05-02"
+Modified Date:: "2025-07-15"
 
 toc:: "false"
 process_markdown:: "true"
