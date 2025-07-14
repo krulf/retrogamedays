@@ -1,5 +1,5 @@
 <!-- BEGIN ARISE ------------------------------
-Title:: "Tilmelding efterårsferien 2025, 16.-18.oktober, kl. 10.00-17.00"
+Title:: "Tilmelding Retro Game Days 2025, 16.-18.okt"
 
 Author:: "Retro Game Days"
 Description:: "Tilmelding til Retro Game Days 2025: besøgende, butikker og hvis du vil være med. Torsdag-fredag: gratis. Lørdag 20kr for børn og 40kr for voksne"

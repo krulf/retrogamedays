@@ -1,5 +1,5 @@
 <!-- BEGIN ARISE ------------------------------
-Title:: "Find vej til arrangementet i Spinderihallerne i Vejle"
+Title:: "Find vej:  Spinderihallerne Vejle"
 
 Author:: "Fablab Spinderihallerne, Vejle Museerne og Vejle Bibliotekerne"
 Description:: "Her finder du Retro Game Days i Spinderihallerne i Vejle, hvordan du kommer derhen og hvor du kan finde parkeringspladser."
