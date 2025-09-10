@@ -21,6 +21,10 @@ Retro Game Days finder sted i Spinderihallerne i Vejle.
 Spinderigade 11<br>
 7100 Vejle<br>
 
+## Handicapforhold
+
+Retro Game Days foregår i Spinderihallerne hvor der er adgang med el- og manuel kørestol. Der er også adgang til Cafeen hvor der kan købes mad og der er handicaptoiletter i Passagen.
+
 ![Retro Game Days 2024 i Spinderiet](spinderi.jpg) 
 
 ## Parkering
