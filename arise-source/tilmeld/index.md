@@ -17,7 +17,7 @@ content_header:: "false"
 Torsdag og fredag er der gratis adgang for besøgende.
 
 ## Voksne & børn lørdag
-Billet lørdag koster 40 kr. for voksne og 20 kr. for børn.
+Billet lørdag koster 40 kr. for voksne og 20 kr. for børn. Børn under 5 år er gratis.
 
 * Tilmeld dig her: [https://spinderihallerne.nemtilmeld.dk/1392/](https://spinderihallerne.nemtilmeld.dk/1392/)
 
