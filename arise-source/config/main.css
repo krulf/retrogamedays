@@ -145,19 +145,19 @@ h1 {
 }
 
 h2 { 
-        padding-top:2em;                                                                                  
+        padding-top:1em;                                                                                  
         padding-bottom:-1;                                                                                
         line-height:1;                                                                                    
         margin-bottom:-0.5em;
-	color: #ac03da;
+	color: #f34189;
 }
 
 h3, h4 {
-        padding-top:2em;
+        padding-top:0.5em;
         padding-bottom:-1;
         line-height:1;
 	margin-bottom:-0.5em;
-	color: #f34189;
+	color: #df6aff;/*#ac03da;*/
 }
 
 ul,ol {
