@@ -33,7 +33,6 @@ Se detaljeret program nedenfor!
 ![Stemningsbilleder fra Retro Game Days: der bliver spillet Amiga, Spectrum og kigget på figurer til salg](RGD-stemning-02.jpg)
 
 ## Programoversigt 
-
 ### Spil løs!
 * Arkademaskiner 
 * Flippermaskiner 
@@ -41,7 +40,6 @@ Se detaljeret program nedenfor!
 * Retro-PC'er 
 
 ### Nørdzonen 
-
 #### Alle dage 
 * Nicklas D: Final Fantasy-samling 
 * Thomas: Amiga & Commodore 64 
@@ -49,11 +47,9 @@ Se detaljeret program nedenfor!
 * Glenn: Danmarksmesterskab i Atari 2600 – sæt highscore i Asteroids (QR-kode). Vinder lørdag får en Atari 2600 
 * Atari Brian: Videopac + Atari 
 * Jørgen T: Shoot ’em ups fra NES til Sega Mega Drive – highscore-konkurrence med præmier (SCIFICON-billetter) 
-
 #### Fredag og lørdag 
 * Lonnie: The White Cat – tegneserie, spil, plakater & merchandise 
 * Henrik Wulff: Star Wars-spil til Commodore 64 
-
 #### Lørdag 
 * Deniz: Amiga 1200 
 * Thomas, Christian & Anders: ZX Spectrum, ZX81 & Lambda 8300 – live bevaringsworkshop (tag dine gamle kassettebånd med) 
@@ -63,7 +59,6 @@ Se detaljeret program nedenfor!
 
 ### Butikker 
 #### Alle dage 
-
 * 1UP: Vejles lokale retrospilbutik (https://www.facebook.com/1UpVejle/) 
 * AutumnHippo: Moderne udvidelser til retro-computere, fx Kung Fu Flash 2, Greaseweazle, LumaFix64 og egenudviklede hardwareudvidelser som fx AmigaCF, NES64, PC1-XT (https://autumnhippo.com) 
 * HypaHypa: Limited Edition Designer Art Toys & Collectibles (https://hypahypa.eu) 
@@ -71,48 +66,38 @@ Se detaljeret program nedenfor!
 * Golisto: Markedsplads for køb og salg af retro gaming gear (https://golisto.com/)
 * Toke: Commodore 64 og spil 
 * Daniel Petersen 
-
 #### Lørdag 
 * Michael Bruun 
 
-### Talks (Lørdag) 
-
+### Talks lørdag
 #### Pokémon: Flere hemmelige fortællinger om kapseldyr 
 * Lørdag kl. 10.30 – med Jacob Bechman Pedersen 
 * Fortsættelse på sidste års talk om Pokémon. Hør om prototyperne til "Pokémon 2" og Pokémons første skridt til at blive en global franchise. 
-
 #### Helte og skurke i danske spil 
 * Lørdag kl. 12.00 – med Allan Christophersen 
-
 #### Thunderforce C64 – Strawberry Fields For… Never Again? 
 * Lørdag kl. 13.30 – med Eric Beran, Peter Jepsen & Torben Bakager 
 * Historien om C64-spillet Thunder Force og de unge udviklere bag – fra jordbærmark til spiludvikling og videre til forskning og software. 
-
 #### Paneldebat: Spil, teknologi og kultur 
 * Lørdag kl. 14.45 – med Allan Christophersen, Jørgen Tietze, Eric Beran, Peter Jepsen & Torben Bakager 
 * Moderator: Rasmus Jakobsen 
 
 ### Workshops & Aktiviteter 
-
 #### Fablab Lørdagsworkshop – Lav dit eget RetroGameDay-lysskilt 
 * Pris: 75 kr. – kræver tilmelding 
 * Intro til Inkscape, laserskæring og elektronik. For begyndere. 
 * Tilmelding: Klik her 
-
 #### Design dit eget pixel-sværd 
 * Pris: 25 kr. – alle dage, ingen tilmelding 
 * Køb sværdet i butikken og dekorér det ved aktivitetsbordet. 
-
 #### Gratis krea-aktiviteter (alle dage) 
 * Tegn med pixels 
 * Byg med 10.000 PlusPlus BIG 
 * Byg din egen mini-retrocomputer i papir 
 
 ### Udstillinger 
-
 #### SpilBiblioteket 
 * Interaktiv dansk spilhistorie – fra NIMBI og frem. 
-
 #### Absolute 90’s 
 * Genbesøg 1990ernes populærkultur: Spil, tv-serier, musik og meget mere. 
 
