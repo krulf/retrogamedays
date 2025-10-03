@@ -39,10 +39,10 @@ Se detaljeret program nedenfor!
 ---
 
 ## Spil løs! 🕹️
-* 👾 Arkademaskiner 
-* 🎰 Flippermaskiner 
-* 📺 Originale konsoller og emulatorer 
-* 🖥️ Retro-PC'er 
+> 👾 Arkademaskiner 
+> 🎰 Flippermaskiner 
+> 📺 Originale konsoller og emulatorer 
+> 🖥️ Retro-PC'er 
 
 ## Nørdzonen 💎
 ### Alle dage 
