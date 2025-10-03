@@ -12,7 +12,7 @@ content_header:: "false"
 rss_hide:: "true"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
-# Oversigt 2025
+# Retro Game Days 2025
 
 >📅  Efterårsferien: Torsdag d. 16. – lørdag d. 18. oktober, kl. 10.00-17.00 
 >
@@ -30,9 +30,7 @@ Vi glæder os til at byde jer velkommen til tre dage spækket med nostalgi, nør
 
 ![Stemningsbilleder fra Retro Game Days: der bliver spillet Amiga, Spectrum og kigget på figurer til salg](RGD-stemning-02.jpg)
 
-# Fuldt program
-
-# Retro Game Days 2025: Programoversigt 
+# Programoversigt 
 
 ## Spil løs!
 * Arkademaskiner 
