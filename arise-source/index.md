@@ -42,7 +42,7 @@ Se detaljeret program nedenfor!
 > 👾 Arkademaskiner 
 > 🎰 Flippermaskiner 
 > 📺 Originale konsoller og emulatorer 
-> 🖥️ Retro-PC'er 
+> 🖥️ Retro-PC'er
 
 ## Nørdzonen 💎
 ### Alle dage 
