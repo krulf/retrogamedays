@@ -38,13 +38,13 @@ Se detaljeret program nedenfor!
 
 ---
 
-## 🕹️ Spil løs! 🕹️
+## 🕹️ Spil løs!
 * Arkademaskiner 
 * Flippermaskiner 
 * Originale konsoller og emulatorer 
 * Retro-PC'er 
 
-## 💎 Nørdzonen 💎
+## 💎 Nørdzonen
 ### Alle dage 
 * Nicklas D: Final Fantasy-samling 
 * Thomas: Amiga & Commodore 64 
@@ -64,7 +64,7 @@ Se detaljeret program nedenfor!
 * 501st Legion Danish Garrison: Star Wars-cosplay 
 * Repair Café Spinderihallerne 
 
-## 🛍️ Butikker 🛍️
+## 🛍️ Butikker
 ### Alle dage 
 * 1UP: Vejles lokale retrospilbutik (https://www.facebook.com/1UpVejle/) 
 * AutumnHippo: Moderne udvidelser til retro-computere, fx Kung Fu Flash 2, Greaseweazle, LumaFix64 og egenudviklede hardwareudvidelser som fx AmigaCF, NES64, PC1-XT (https://autumnhippo.com) 
@@ -77,42 +77,42 @@ Se detaljeret program nedenfor!
 ### Lørdag 
 * Michael Bruun 
 
-## 💬 Talks lørdag 💬
-### 👾 Pokémon: Flere hemmelige fortællinger om kapseldyr 👾
+## 💬 Talks lørdag
+### 🦋 Pokémon: Flere hemmelige fortællinger om kapseldyr
 * Lørdag kl. 10.30 – med Jacob Bechman Pedersen 
 * Fortsættelse på sidste års talk om Pokémon. Hør om prototyperne til "Pokémon 2" og Pokémons første skridt til at blive en global franchise. 
 
-### 🦸🏽‍♀️ Helte og skurke i danske spil 🧌 
+### 🦸🏽‍♀️ Helte og skurke i danske spil
 * Lørdag kl. 12.00 – med Allan Christophersen 
 
-### ⚡ Thunderforce C64 – Strawberry Fields For… Never Again? 🥷
+### ⚡ Thunderforce C64 – Strawberry Fields For… Never Again?
 * Lørdag kl. 13.30 – med Eric Beran, Peter Jepsen & Torben Bakager 
 * Historien om C64-spillet Thunder Force og de unge udviklere bag – fra jordbærmark til spiludvikling og videre til forskning og software. 
 
-### 🦜 Paneldebat: Spil, teknologi og kultur 🦜
+### 🦜 Paneldebat: Spil, teknologi og kultur
 * Lørdag kl. 14.45 – med Allan Christophersen, Jørgen Tietze, Eric Beran, Peter Jepsen & Torben Bakager 
 * Moderator: Rasmus Jakobsen 
 
-## 🧰 Workshops & Aktiviteter 🧰
+## 🧰 Workshops & Aktiviteter
 ### Fablab Lørdagsworkshop – Lav dit eget RetroGameDay-lysskilt 
 * Pris: 75 kr. – kræver tilmelding 
 * Intro til Inkscape, laserskæring og elektronik. For begyndere. 
 * Tilmelding: Klik her 
 
-### ⚔️ Design dit eget pixel-sværd ⚔️
+### ⚔️ Design dit eget pixel-sværd
 * Pris: 25 kr. – alle dage, ingen tilmelding 
 * Køb sværdet i butikken og dekorér det ved aktivitetsbordet. 
 
-### 🎨 Gratis krea-aktiviteter (alle dage) 🎨
+### 🎨 Gratis krea-aktiviteter (alle dage)
 * Tegn med pixels 
 * Byg med 10.000 PlusPlus BIG 
 * Byg din egen mini-retrocomputer i papir 
 
-## 🏛 Udstillinger 🏛 
-### 🎮 SpilBiblioteket 📖
+## 🏛 Udstillinger
+### 📚 SpilBiblioteket
 * Interaktiv dansk spilhistorie – fra NIMBI og frem. 
 
-### 💃🏽 Absolute 90’s 🕺
+### 💃🏽 Absolute 90’s
 * Genbesøg 1990ernes populærkultur: Spil, tv-serier, musik og meget mere. 
 
 ![Aktivitet i Spinderiet til Retro Game Days 2024](RGD-stemning-01.jpg)
