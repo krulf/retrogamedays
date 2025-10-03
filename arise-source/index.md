@@ -96,12 +96,12 @@ Se detaljeret program nedenfor!
 
 #### Fablab Lørdagsworkshop – Lav dit eget RetroGameDay-lysskilt 
 * Pris: 75 kr. – kræver tilmelding 
-*  Intro til Inkscape, laserskæring og elektronik. For begyndere. 
-*  Tilmelding: Klik her 
+* Intro til Inkscape, laserskæring og elektronik. For begyndere. 
+* Tilmelding: Klik her 
 
 #### Design dit eget pixel-sværd 
-*  Pris: 25 kr. – alle dage, ingen tilmelding 
-*  Køb sværdet i butikken og dekorér det ved aktivitetsbordet. 
+* Pris: 25 kr. – alle dage, ingen tilmelding 
+* Køb sværdet i butikken og dekorér det ved aktivitetsbordet. 
 
 #### Gratis krea-aktiviteter (alle dage) 
 * Tegn med pixels 
@@ -115,17 +115,5 @@ Se detaljeret program nedenfor!
 
 #### Absolute 90’s 
 * Genbesøg 1990ernes populærkultur: Spil, tv-serier, musik og meget mere. 
-
-### Bliv en del af Retro Game Days
-
-Vi vil styrke spilkultur og bidrage til fællesskabet blandt entusiaster indenfor retrospil. Derfor inviterer vi både private og erhvervsdrivende:
-
->🤓 Har du en samling, hobby eller nørdet passion, du vil vise og dele?
->
->🛒 Vil du have en stand og sælge retrospil, hardware eller andet?
->
->🛠️ Vil du være frivillig og hjælpe med at formidle og klargøre vores samling af maskiner?
-
-👉 Kontakt Jørgen på <jorti@vejlebib.dk> og få mere at vide.
 
 ![Aktivitet i Spinderiet til Retro Game Days 2024](RGD-stemning-01.jpg)
