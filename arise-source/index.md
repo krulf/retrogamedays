@@ -39,10 +39,10 @@ Se detaljeret program nedenfor!
 ---
 
 ## 🕹️ Spil løs!
-* Arkademaskiner 
-* Flippermaskiner 
-* Originale konsoller og emulatorer 
-* Retro-PC'er 
+* 👾 Arkademaskiner 
+* 🎰 Flippermaskiner 
+* 📺 Originale konsoller og emulatorer 
+* 🖥️ Retro-PC'er 
 
 ## 💎 Nørdzonen
 ### Alle dage 
@@ -94,7 +94,7 @@ Se detaljeret program nedenfor!
 * Moderator: Rasmus Jakobsen 
 
 ## 🧰 Workshops & Aktiviteter
-### Fablab Lørdagsworkshop – Lav dit eget RetroGameDay-lysskilt 
+### 💡 Fablab Lørdagsworkshop – Lav dit eget RetroGameDay-lysskilt 
 * Pris: 75 kr. – kræver tilmelding 
 * Intro til Inkscape, laserskæring og elektronik. For begyndere. 
 * Tilmelding: Klik her 
