@@ -34,7 +34,9 @@ Se detaljeret program nedenfor!
 
 ---
 
-# Programoversigt 
+# Detaljeret programoversigt 
+
+---
 
 ## Spil løs!
 * Arkademaskiner 
