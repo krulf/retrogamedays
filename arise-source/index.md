@@ -32,9 +32,9 @@ Se detaljeret program nedenfor!
 
 ![Stemningsbilleder fra Retro Game Days: der bliver spillet Amiga, Spectrum og kigget på figurer til salg](RGD-stemning-02.jpg)
 
-# Programoversigt 
-
 ---
+
+# Programoversigt 
 
 ## Spil løs!
 * Arkademaskiner 
