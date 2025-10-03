@@ -38,13 +38,13 @@ Se detaljeret program nedenfor!
 
 ---
 
-## 🕹️ Spil løs!
+## Spil løs! 🕹️
 * 👾 Arkademaskiner 
 * 🎰 Flippermaskiner 
 * 📺 Originale konsoller og emulatorer 
 * 🖥️ Retro-PC'er 
 
-## 💎 Nørdzonen
+## Nørdzonen 💎
 ### Alle dage 
 * Nicklas D: Final Fantasy-samling 
 * Thomas: Amiga & Commodore 64 
@@ -64,7 +64,7 @@ Se detaljeret program nedenfor!
 * 501st Legion Danish Garrison: Star Wars-cosplay 
 * Repair Café Spinderihallerne 
 
-## 🛍️ Butikker
+## Butikker 🛍️
 ### Alle dage 
 * 1UP: Vejles lokale retrospilbutik (https://www.facebook.com/1UpVejle/) 
 * AutumnHippo: Moderne udvidelser til retro-computere, fx Kung Fu Flash 2, Greaseweazle, LumaFix64 og egenudviklede hardwareudvidelser som fx AmigaCF, NES64, PC1-XT (https://autumnhippo.com) 
@@ -77,7 +77,7 @@ Se detaljeret program nedenfor!
 ### Lørdag 
 * Michael Bruun 
 
-## 💬 Talks lørdag
+## Talks lørdag 💬
 ### 🦋 Pokémon: Flere hemmelige fortællinger om kapseldyr
 * Lørdag kl. 10.30 – med Jacob Bechman Pedersen 
 * Fortsættelse på sidste års talk om Pokémon. Hør om prototyperne til "Pokémon 2" og Pokémons første skridt til at blive en global franchise. 
@@ -93,7 +93,7 @@ Se detaljeret program nedenfor!
 * Lørdag kl. 14.45 – med Allan Christophersen, Jørgen Tietze, Eric Beran, Peter Jepsen & Torben Bakager 
 * Moderator: Rasmus Jakobsen 
 
-## 🧰 Workshops & Aktiviteter
+## Workshops & Aktiviteter 🧰
 ### 💡 Fablab Lørdagsworkshop – Lav dit eget RetroGameDay-lysskilt 
 * Pris: 75 kr. – kræver tilmelding 
 * Intro til Inkscape, laserskæring og elektronik. For begyndere. 
@@ -108,7 +108,7 @@ Se detaljeret program nedenfor!
 * Byg med 10.000 PlusPlus BIG 
 * Byg din egen mini-retrocomputer i papir 
 
-## 🏛 Udstillinger
+## Udstillinger 🏛
 ### 📚 SpilBiblioteket
 * Interaktiv dansk spilhistorie – fra NIMBI og frem. 
 
