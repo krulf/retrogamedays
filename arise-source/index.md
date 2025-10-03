@@ -84,7 +84,9 @@ Vi glæder os til at byde jer velkommen til tre dage spækket med nostalgi, nør
 
 * HypaHypa: Limited Edition Designer Art Toys & Collectibles (https://hypahypa.eu) 
 
-* The Game Museum: Retrospilbutik fra Odense (https://www.facebook.com/p/Odense-Game-Museum-61574579095710/) 
+* The Game Museum: Retrospilbutik fra Odense (https://www.facebook.com/p/Odense-Game-Museum-61574579095710/)
+
+* Golisto: Markedsplads for køb og salg af retro gaming gear (https://golisto.com/)
 
 * Toke: Commodore 64 og spil 
 
