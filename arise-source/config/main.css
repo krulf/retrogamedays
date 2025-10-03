@@ -29,6 +29,10 @@ p {
 	margin-bottom: 0.2em;
 }
 
+p.sponsor {
+	color: #ff6fa9;/*#f34189;*/
+	font-weight: bold;
+}
 
 video {
         width:100%;
