@@ -22,7 +22,7 @@ rss_hide:: "true"
 >
 >🎟️  Lørdag: Voksne 40 kr. / Børn fra 5år 20 kr.
 >
->🎟️  Køb billet: [https://spinderihallerne.nemtilmeld.dk/1392/](https://spinderihallerne.nemtilmeld.dk/1392/).
+>🎟️  Køb billet: [https://spinderihallerne.nemtilmeld.dk/1392/](https://spinderihallerne.nemtilmeld.dk/1392/)
 >
 >🌐  Besøg [event på facebook](https://www.facebook.com/events/727221046554171)
 
