@@ -54,7 +54,7 @@ rss_hide:: "true"
 * Daniel Petersen
 
 ### Lørdag 
-* Michael Bruun 
+* Michael Bruun: Passioneret retro samler igennem +15 år. Gør mest inden for Playstation og Nintendo konsoller og spil. 
 
 ## Talks lørdag 💬
 ### 🦋 Pokémon: Flere hemmelige fortællinger om kapseldyr
