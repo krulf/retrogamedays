@@ -28,6 +28,6 @@ Er du klar til årets ultimative retro-fix? Spinderihallerne bliver igen fyldt m
 
 Vi glæder os til at byde jer velkommen til tre dage spækket med nostalgi, nørderi og uforglemmelige spiloplevelser for hele familien!
 
-Se detaljeret program nedenfor!
+[Se detaljeret program](/program)
 
 ![Stemningsbilleder fra Retro Game Days: der bliver spillet Amiga, Spectrum og kigget på figurer til salg](RGD-stemning-02.jpg)
