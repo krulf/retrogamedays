@@ -13,4 +13,4 @@ rss_hide:: "true"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
 ![Talks plakat, se programmet i talks under program](talksplakat.png)
-[Det fulde program for dagene kan ses under program](/program)
+Herover er vores plakat for talks 2025, har du brug for at læse programmet i tekst, så findes teksten i [det fulde program for dagene](/program).
