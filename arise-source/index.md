@@ -18,7 +18,7 @@ rss_hide:: "true"
 >
 >📍  Spinderihallerne, Vejle
 >
->🎟️  Lørdag: Voksne 40 kr. / Børn 20 kr. 
+>🎟️  Lørdag: Voksne 40 kr. / Børn 20 kr: [køb billet](https://spinderihallerne.nemtilmeld.dk/1392/).
 >
 >🎟️  Torsdag og fredag: GRATIS ADGANG
 >
