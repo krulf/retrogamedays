@@ -74,9 +74,9 @@ rss_hide:: "true"
 
 ## Workshops & Aktiviteter 🧰
 ### 💡 Fablab Lørdagsworkshop – Lav dit eget RetroGameDay-lysskilt 
-* Pris: 75 kr. [Tilmelding påkrævet](https://spinderihallerne.nemtilmeld.dk/1443/)
+* Pris: 75 kr. (Tilmelding påkrævet)
 * Intro til Inkscape, laserskæring og elektronik. For begyndere. 
-* [Tilmelding dig her](https://spinderihallerne.nemtilmeld.dk/1443/)
+* Tilmelding dig her: [https://spinderihallerne.nemtilmeld.dk/1443/](https://spinderihallerne.nemtilmeld.dk/1443/)
 
 ### ⚔️ Design dit eget pixel-sværd
 * Pris: 25 kr. – alle dage, ingen tilmelding 
