@@ -44,21 +44,21 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 ### Lørdag
 * Deniz: Amiga 1200 
 * Thomas, Christian & Anders: ZX Spectrum, ZX81 & Lambda 8300 – live bevaringsworkshop (tag dine gamle kassettebånd med) 
-* Troopers for Charity: Star Wars-cosplay [troopersforcharity.dk](https://troopersforcharity.dk/)
-* 501st Legion Danish Garrison: Star Wars-cosplay [danishgarrison.dk](https://danishgarrison.dk/)
-* Repair Café Spinderihallerne [spinderihallerne.dk/faellesskaber/repair-cafe/](https://www.spinderihallerne.dk/faellesskaber/repair-cafe/)
-* 2 Many Dragons Vejle [facebook.com/groups/2MD.Vejle](https://facebook.com/groups/2MD.Vejle)
+* Troopers for Charity: Star Wars-cosplay ([troopersforcharity.dk](https://troopersforcharity.dk/))
+* 501st Legion Danish Garrison: Star Wars-cosplay ([danishgarrison.dk](https://danishgarrison.dk/))
+* Repair Café Spinderihallerne ([spinderihallerne.dk/faellesskaber/repair-cafe/](https://www.spinderihallerne.dk/faellesskaber/repair-cafe/))
+* 2 Many Dragons Vejle ([facebook.com/groups/2MD.Vejle](https://facebook.com/groups/2MD.Vejle))
 
 ## Butikker 🛍️
 
 ---
 
 ### Alle dage 
-* 1UP: Vejles lokale retrospilbutik [facebook.com/1UpVejle/](https://facebook.com/1UpVejle/) 
-* AutumnHippo: Moderne udvidelser til retro-computere, fx Kung Fu Flash 2, Greaseweazle, LumaFix64 og egenudviklede hardwareudvidelser som fx AmigaCF, NES64, PC1-XT [autumnhippo.com](https://autumnhippo.com) 
-* HypaHypa: Limited Edition Designer Art Toys & Collectibles [hypahypa.eu](https://hypahypa.eu) 
-* The Game Museum: Retrospilbutik fra Odense [facebook.com/p/Odense-Game-Museum-61574579095710/](https://facebook.com/p/Odense-Game-Museum-61574579095710/)
-* Golisto: Markedsplads for køb og salg af retro gaming gear [golisto.com/](https://golisto.com/)
+* 1UP: Vejles lokale retrospilbutik ([facebook.com/1UpVejle/](https://facebook.com/1UpVejle/))
+* AutumnHippo: Moderne udvidelser til retro-computere, fx Kung Fu Flash 2, Greaseweazle, LumaFix64 og egenudviklede hardwareudvidelser som fx AmigaCF, NES64, PC1-XT ([autumnhippo.com](https://autumnhippo.com))
+* HypaHypa: Limited Edition Designer Art Toys & Collectibles ([hypahypa.eu](https://hypahypa.eu))
+* The Game Museum: Retrospilbutik fra Odense ([facebook.com/p/Odense-Game-Museum-61574579095710/](https://facebook.com/p/Odense-Game-Museum-61574579095710/))
+* Golisto: Markedsplads for køb og salg af retro gaming gear ([golisto.com/](https://golisto.com/))
 * Toke: Commodore 64 og spil 
 * Daniel Petersen: køb spil til playstation 1-4, xbox classic, xbox360 og nintendo wii. Forskellige konsoller og retro gaming kunst. Prøv også Giana Sisters på A500.
 
@@ -91,7 +91,7 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 ### 💡 Fablab Lørdagsworkshop – Lav dit eget RetroGameDay-lysskilt 
 * Pris: 75 kr. (Tilmelding påkrævet)
 * Intro til Inkscape, laserskæring og elektronik. For begyndere. 
-* Tilmeld dig her: [spinderihallerne.nemtilmeld.dk/1443/](https://spinderihallerne.nemtilmeld.dk/1443/)
+* Tilmeld dig her ([spinderihallerne.nemtilmeld.dk/1443/](https://spinderihallerne.nemtilmeld.dk/1443/))
 
 ### ⚔️ Design dit eget pixel-sværd
 * Pris: 25 kr. – alle dage, ingen tilmelding 
