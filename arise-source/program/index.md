@@ -84,7 +84,7 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 * Lørdag kl. 14.45 – med Allan Christophersen, Jørgen Tietze, Eric Beran, Peter Jepsen & Torben Bakager 
 * Moderator: Rasmus Jakobsen 
 
-[Plakaten for talks 2025](/talks)
+[Plakaten for talks 2025](/talks) ->
 
 
 ## Workshops & Aktiviteter 🧰
