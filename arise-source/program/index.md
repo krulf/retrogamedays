@@ -38,7 +38,7 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 * Jørgen T: Shoot ’em ups fra NES til Sega Mega Drive – highscore-konkurrence med præmier (SCIFICON-billetter)
 
 ### Fredag og lørdag 
-* Lonnie: The White Cat – tegneserie, spil, plakater & merchandise 
+* Lonnie: The White Cat – tegneserie, spil, plakater & merchandise ([the-white-cat.com](https://the-white-cat.com/)) 
 * Henrik Wulff: Star Wars-spil til Commodore 64 
 
 ### Lørdag
