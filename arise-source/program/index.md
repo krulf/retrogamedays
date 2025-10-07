@@ -32,7 +32,7 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 ### Alle dage 
 * Nicklas D: Final Fantasy-samling 
 * Thomas: Amiga & Commodore 64 
-* Margrethe: Podcasten Easter Eggs & Indiespil 
+* Margrethe: Podcasten Easter Eggs & Indiespil ([eastereggsindiespil.buzzsprout.com/](https://eastereggsindiespil.buzzsprout.com/))
 * Glenn: Danmarksmesterskab i Atari 2600 – sæt highscore i Asteroids (QR-kode). Vinder lørdag får en Atari 2600 
 * Atari Brian: Videopac + Atari 
 * Jørgen T: Shoot ’em ups fra NES til Sega Mega Drive – highscore-konkurrence med præmier (SCIFICON-billetter)
