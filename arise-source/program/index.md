@@ -23,6 +23,8 @@ rss_hide:: "true"
 >
 > 🖥️ Retro-PC'er
 
+Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udfordrer dem!
+
 ## Nørdzonen 💎
 ### Alle dage 
 * Nicklas D: Final Fantasy-samling 
