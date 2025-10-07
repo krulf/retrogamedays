@@ -21,7 +21,7 @@ Billet lørdag koster 40 kr. for voksne og 20 kr. for børn. Børn under 5 år e
 
 * Tilmeld dig her: [https://spinderihallerne.nemtilmeld.dk/1392/](https://spinderihallerne.nemtilmeld.dk/1392/)
 
-* Tilmeld "Lav et RetroGameDay lysskilt": [https://spinderihallerne.nemtilmeld.dk/1443/](https://spinderihallerne.nemtilmeld.dk/1443/)
+* Tilmeld "Lav et Retro Game Days lysskilt": [https://spinderihallerne.nemtilmeld.dk/1443/](https://spinderihallerne.nemtilmeld.dk/1443/)
 
 ## Bliv en del af næste års Retro Game Days
 Fristen for tilmelding er desværre overskrevet for 2025. Har du interesse i næste års arrangement uanset om du vil sælge noget eller har en passion for gamle computere, spil eller noget tredje som vil passe ind i Retro Game Days er du velkommen til at vise din interesse ved at sende en mail til Jørgen på <jorti@vejlebib.dk>.
