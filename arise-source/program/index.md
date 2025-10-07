@@ -49,8 +49,6 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 * Repair Café Spinderihallerne [spinderihallerne.dk/faellesskaber/repair-cafe/](https://www.spinderihallerne.dk/faellesskaber/repair-cafe/)
 * 2 Many Dragons Vejle [facebook.com/groups/2MD.Vejle](https://facebook.com/groups/2MD.Vejle)
 
----
-
 ## Butikker 🛍️
 
 ---
@@ -66,8 +64,6 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 
 ### Lørdag 
 * Michael Bruun: Passioneret retro samler igennem +15 år. Gør mest inden for Playstation og Nintendo konsoller og spil. 
-
----
 
 ## Talks lørdag 💬
 
@@ -88,8 +84,6 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 * Lørdag kl. 14.45 – med Allan Christophersen, Jørgen Tietze, Eric Beran, Peter Jepsen & Torben Bakager 
 * Moderator: Rasmus Jakobsen 
 
----
-
 ## Workshops & Aktiviteter 🧰
 
 ---
@@ -107,8 +101,6 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 * Tegn med pixels 
 * Byg med 10.000 PlusPlus BIG 
 * Byg din egen mini-retrocomputer i papir 
-
----
 
 ## Udstillinger 🏛
 
