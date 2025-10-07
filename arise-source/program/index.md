@@ -45,10 +45,10 @@ rss_hide:: "true"
 
 ## Butikker 🛍️
 ### Alle dage 
-* 1UP: Vejles lokale retrospilbutik [https://www.facebook.com/1UpVejle/](https://www.facebook.com/1UpVejle/) 
+* 1UP: Vejles lokale retrospilbutik [https://facebook.com/1UpVejle/](https://facebook.com/1UpVejle/) 
 * AutumnHippo: Moderne udvidelser til retro-computere, fx Kung Fu Flash 2, Greaseweazle, LumaFix64 og egenudviklede hardwareudvidelser som fx AmigaCF, NES64, PC1-XT [https://autumnhippo.com](https://autumnhippo.com) 
 * HypaHypa: Limited Edition Designer Art Toys & Collectibles [https://hypahypa.eu](https://hypahypa.eu) 
-* The Game Museum: Retrospilbutik fra Odense [https://www.facebook.com/p/Odense-Game-Museum-61574579095710/](https://www.facebook.com/p/Odense-Game-Museum-61574579095710/)
+* The Game Museum: Retrospilbutik fra Odense [https://facebook.com/p/Odense-Game-Museum-61574579095710/](https://facebook.com/p/Odense-Game-Museum-61574579095710/)
 * Golisto: Markedsplads for køb og salg af retro gaming gear [https://golisto.com/](https://golisto.com/)
 * Toke: Commodore 64 og spil 
 * Daniel Petersen: køb spil til playstation 1-4, xbox classic, xbox360 og nintendo wii. Forskellige konsoller og retro gaming kunst. Prøv også Giana Sisters på A500.
