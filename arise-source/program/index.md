@@ -26,6 +26,9 @@ rss_hide:: "true"
 Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udfordrer dem!
 
 ## Nørdzonen 💎
+
+---
+
 ### Alle dage 
 * Nicklas D: Final Fantasy-samling 
 * Thomas: Amiga & Commodore 64 
@@ -46,6 +49,9 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 * Repair Café Spinderihallerne 
 
 ## Butikker 🛍️
+
+---
+
 ### Alle dage 
 * 1UP: Vejles lokale retrospilbutik [https://facebook.com/1UpVejle/](https://facebook.com/1UpVejle/) 
 * AutumnHippo: Moderne udvidelser til retro-computere, fx Kung Fu Flash 2, Greaseweazle, LumaFix64 og egenudviklede hardwareudvidelser som fx AmigaCF, NES64, PC1-XT [https://autumnhippo.com](https://autumnhippo.com) 
@@ -59,6 +65,9 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 * Michael Bruun: Passioneret retro samler igennem +15 år. Gør mest inden for Playstation og Nintendo konsoller og spil. 
 
 ## Talks lørdag 💬
+
+---
+
 ### 🦋 Pokémon: Flere hemmelige fortællinger om kapseldyr
 * Lørdag kl. 10.30 – med Jacob Bechman Pedersen 
 * Fortsættelse på sidste års talk om Pokémon. Hør om prototyperne til "Pokémon 2" og Pokémons første skridt til at blive en global franchise. 
@@ -75,6 +84,9 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 * Moderator: Rasmus Jakobsen 
 
 ## Workshops & Aktiviteter 🧰
+
+---
+
 ### 💡 Fablab Lørdagsworkshop – Lav dit eget RetroGameDay-lysskilt 
 * Pris: 75 kr. (Tilmelding påkrævet)
 * Intro til Inkscape, laserskæring og elektronik. For begyndere. 
@@ -90,6 +102,9 @@ Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udf
 * Byg din egen mini-retrocomputer i papir 
 
 ## Udstillinger 🏛
+
+---
+
 ### 📚 SpilBiblioteket
 * Interaktiv dansk spilhistorie – fra NIMBI og frem. 
 
