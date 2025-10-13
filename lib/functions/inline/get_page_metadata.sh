@@ -88,7 +88,6 @@ get_page_metadata() {
                 # URL
                 relative_url="$(realpath $(dirname $1) | sed 's@.*arise-out@@g')"'/'
                 canonical_url="$base_url""$relative_url"
-		canonical_url=${canonical_url::-1}
 	else
                 # Clear out metadata so that anything calling this function expecting to get new data cannot get old values on accident if the requested file does not exist.
                 clear_metadata
