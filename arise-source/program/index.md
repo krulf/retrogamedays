@@ -26,7 +26,7 @@ rss_hide:: "true"
 Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udfordrer dem!
 
 ### Mad
-Der kan købes retromad i Spinderihallernes cafe og vi har lavet et madpakkeområde, så man kan nyde medbragt mad.
+Der kan købes retromad i Spinderihallernes cafe og vi har et madpakkeområde, så man kan nyde medbragt mad.
 
 ## Nørdzonen 💎
 
