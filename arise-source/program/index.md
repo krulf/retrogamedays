@@ -23,7 +23,7 @@ rss_hide:: "true"
 >
 > 🖥️ Retro-PC'er
 
-Torsdag får vi besøg af politiet nogle timer, så tag god imod dem, når I udfordrer dem!
+Torsdag får vi besøg af politiet nogle timer, så tag godt imod dem, når I udfordrer dem!
 
 ### Mad
 Der kan købes retromad i Spinderihallernes cafe og vi har et madpakkeområde, så man kan nyde medbragt mad.
