@@ -6,11 +6,13 @@ Description:: "Retro Game Days er en fejring af spilkultur, historie og fælless
 Language:: "da"
 Thumbnail:: "talks-150x150.png"
 Published Date:: "2025-10-05"
-Modified Date:: "2025-10-05"
+Modified Date:: "2025-18-05"
 
 content_header:: "false"
 rss_hide:: "true"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
+
+[Link til livestream på youtube](https://youtube.com/live/IsUh-M3wdTQ)
 
 ![Talks plakat, se programmet i talks under program](talksplakat.png)
 Herover er vores plakat for talks 2025, har du brug for at læse programmet i tekst, så findes det i [det fulde program for dagene](/program/#talks-l%C3%B8rdag).
