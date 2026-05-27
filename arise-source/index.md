@@ -5,31 +5,17 @@ Author:: "Fablab Spinderihallerne, Vejle Museerne og Vejle Bibliotekerne"
 Description:: "Retro Game Days er en fejring af spilkultur, historie og fællesskaber i uge 42: oplev nostalgi og nørderi når du hører lyden af de gamle maskiner"
 Language:: "da"
 Thumbnail:: "joystick-150x150.png"
-Published Date:: "2025-06-17"
-Modified Date:: "2025-10-03"
+Published Date:: "2026-05-27"
+Modified Date:: "2026-05-27"
 
 content_header:: "false"
 rss_hide:: "true"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
-# Retro Game Days 2025
+# Retro Game Days i Vejle holder pause i 2026
 
->📅  Efterårsferien: Torsdag d. 16. – lørdag d. 18. oktober, kl. 10.00-17.00 
->
->📍  Spinderihallerne, Vejle
->
->🎟️  Torsdag og fredag: GRATIS ADGANG
->
->🎟️  Lørdag: Voksne 40 kr. / Børn fra 5år 20 kr.
->
->🎟️  Køb billet: [https://spinderihallerne.nemtilmeld.dk/1392/](https://spinderihallerne.nemtilmeld.dk/1392/)
->
->🌐  Besøg [event på facebook](https://www.facebook.com/events/727221046554171)
+Efter 6 år med Retro Game Days i Spinderihallerne i Vejle i forbindelse med efterårsferien, må vi i år undvære eventet, da vi holder pause i 2026. Det er endnu ikke besluttet om eventet vender tilbage igen i 2027 i et andet format.
 
-Er du klar til årets ultimative retro-fix? Spinderihallerne bliver igen fyldt med blip, bloops og nostalgiske pixel-drømme, når RETRO GAME DAYS 2025 åbner dørene for både hardcore gamere, samlere og nysgerrige nostalgikere.
+Det har været en stor fornøjelse at afholde Retro Game Days og opleve de mange besøgende fordybe sig i retrospil og den særlige kultur, fællesskab og nostalgi, der følger med. Vi vil gerne sige en stor tak til alle vores samarbejdspartnere, entusiaster og frivillige, som har været en vigtig del af succesen, og samtidig en stor tak til de mange besøgende, der har lagt vejen forbi gennem årene.
 
-Vi glæder os til at byde jer velkommen til tre dage spækket med nostalgi, nørderi og uforglemmelige spiloplevelser for hele familien!
-
-[Se detaljeret program](/program)
-
-![Stemningsbilleder fra Retro Game Days: der bliver spillet Amiga, Spectrum og kigget på figurer til salg](RGD-stemning-02.jpg)
+Kontakt: <museerne@vejle.dk>
