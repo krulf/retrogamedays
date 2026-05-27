@@ -12,7 +12,7 @@ content_header:: "false"
 rss_hide:: "true"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
-# Retro Game Days i Vejle holder pause i 2026
+# Retro Game Days Vejle holder pause i 2026
 
 Efter 6 år med Retro Game Days i Spinderihallerne i Vejle i forbindelse med efterårsferien, må vi i år undvære eventet, da vi holder pause i 2026. Det er endnu ikke besluttet om eventet vender tilbage igen i 2027 i et andet format.
 
