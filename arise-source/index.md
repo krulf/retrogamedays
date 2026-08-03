@@ -24,6 +24,6 @@ Kontakt: <museerne@vejle.dk>
 
 Er der disse fede arrangementer du kan tage til (links til facebook):
 
-* 29. august 2026: [Retro Konsol Marked 2026](https://www.facebook.com/events/2061252501341630/)
-* 13. februar 2027: [DraCon - Fantasi, figurer & fællesskab](https://www.facebook.com/DraConVejle)
-* 27. februar 2027: [RETRO GAMING MARKED 2.0](https://www.facebook.com/events/1504496371096416/)
+* 29.august 2026: [Retro Konsol Marked 2026](https://www.facebook.com/events/2061252501341630/)
+* 13.februar 2027: [DraCon - Fantasi, figurer & fællesskab](https://www.facebook.com/DraConVejle)
+* 27.februar 2027: [RETRO GAMING MARKED 2.0](https://www.facebook.com/events/1504496371096416/)
