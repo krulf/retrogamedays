@@ -55,7 +55,7 @@ jobs:
           passphrase: ${{secrets.PASSPHRASE}}
           port: 22
           uploads: |
-            /home/runner/work/retrogamedays/retrogamedays/arise-out => ./retrogamedays.dk/testing
+            ./arise-out => ./retrogamedays.dk/testing
           ignore: |
             *.mp4
           delete: 'false'
